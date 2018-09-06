@@ -29,7 +29,7 @@ Alternately, you can use Github to fork and clone the repository https://github.
 8.Log into the VM with vagrant ssh
 
 #Download and run the file
-1.Clone this repository to your local drive: https://github.com/9snehal/test
+1.Clone this repository to your local drive: https://github.com/9snehal/test1
 
 2.Copy the  file into the FSND_Virtual_Machine/vagrant directory.
 
